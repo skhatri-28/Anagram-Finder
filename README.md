@@ -37,7 +37,7 @@ The execute, call "make run"
 To compile and execute the run, call "make all"
 
 #### Run tests
-To run tests, call "make test_suite," followed by "./test_suite" Please note that while technically, DestroyLinkedList method should be called in the test code, it was not possible. Upon advice from both Professor Slaughter and TA Panpan Cao, I was told that I could leave this out as this method required memory allocation in C++ for the data added to the linked list. Given the complexity of this, Professor Slaughter said I could just remove the method and make note of it. Panpan and I also tried many approaches to adjust my LinkedList code to resolve this, but none of these worked without resulting in memory leaks in valgrind or other errors.
+To run tests, call "make test_suite," followed by "./test_suite"
 
 #### Remove the executable
 
