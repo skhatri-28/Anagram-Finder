@@ -1,8 +1,4 @@
-# Assignment 6: Hashtables
-
-#### Name
-
-Shefali Khatri
+# Anagram Finder
 
 ## Objectives
 
@@ -54,19 +50,6 @@ The executable can be removed by calling "make clean"
 ### Output
 
 List containing sublists of anagrams. Only words in the file that have an anagram will be printed. If a second word is not found that is an anagram of the first, the word will not be printed.
-
-
-## Summary of Overall Assignment
-
-1. Resources used: stack overflow, wikipedia, geek for geeks, and other articles online to understand void pointers
-
-2. Time spent on the assignment: 60+ hours
-
-3. What was the most challenging part of this assignment? I had a number of bugs in C which were difficult to resolve, including valgrind errors, problems with using the test file, the tests not running as expected due to potential differences in C and C++ and I initially started off on the wrong foot as the initial Header files for the assignment lead to some confusion.
-
-4. What did you like about this assignment? It really required me to think and understand the complexities of C, hashtables, memory, and built our skills up on previous coursework. This assignment significantly increased my knowledge of C, but was extremely challenging.
-
-5. How could this assignment be improved? It would be better not to provide header files or if there are header files, more guidance and instruction on how to use them. Also, explanation about how to work with void pointers, process file input, and better instruction on how to work with the google test suite and makefiles.
 
 ## Additional Notes
 
